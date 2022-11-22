@@ -7,7 +7,7 @@ Team ID:  PNT2022TMID39276
 
 Batch: B3-3M5E
 
-Team Leader: yuvaraj S
+Team Leader: Yuvaraj S
 
 Team Members: Dhilip kumar D,Dhina P,Praveen K
 
